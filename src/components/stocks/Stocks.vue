@@ -1,9 +1,9 @@
 <template>
-  <h1>The Home Component</h1>
+  <h1>The Stocks Component</h1>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Stocks'
 };
 </script>
