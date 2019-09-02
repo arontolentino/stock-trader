@@ -1,9 +1,9 @@
 <template>
-  <h1>The Stocks - Stock Component</h1>
+  <h1>The Portfolio Component</h1>
 </template>
 
 <script>
 export default {
-  name: 'StocksStock'
+  name: 'Portfolio'
 };
 </script>
